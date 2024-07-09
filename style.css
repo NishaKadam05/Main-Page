@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    padding-left: 300px;
+    padding-top: 200px;
+}
+
+.main{
+    text-align: center;
+    border: 1px solid;
+    width: 70%;
+    padding: 20px;
+    box-shadow: 6px 6px 6px 6px;
+    background-color: rgb(239, 235, 235);
+}
+
+.main i{
+    font-size: 100px;
+    border: 1px solid orangered;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: orangered;
+    color: white;
+}
